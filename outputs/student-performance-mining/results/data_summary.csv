@@ -1,0 +1,3 @@
+subject,students,columns,missing_cells,duplicate_rows,mean_G3,median_G3,pass_rate_G3_ge_10
+Mathematics,395,33,0,0,10.415,11.0,0.671
+Portuguese,649,33,0,0,11.906,12.0,0.846
